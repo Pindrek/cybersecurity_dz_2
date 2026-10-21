@@ -1,0 +1,7 @@
+.text {
+    position: relative;
+    left: 35vw;
+    top: 35vh;
+    text-shadow: 0 0 50px aqua;
+    font-size: 400%;
+}
